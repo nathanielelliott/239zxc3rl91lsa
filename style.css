@@ -53,7 +53,7 @@ http://blog.typekit.com/2011/11/09/type-study-sizing-the-legible-letter/
 
 ::-moz-selection {
 	color: #ffffff;
-	background-color: #73b819;
+	background-color: red;
 }
 ::selection {
 	color: #ffffff;
